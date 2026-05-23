@@ -1,0 +1,21 @@
+2026-05-23 23:10:24 [INFO]   VM 'TestVM-1' started
+2026-05-23 23:10:24 [INFO]   Started process 'init' PID=1000
+2026-05-23 23:10:24 [INFO]   Started process 'bash' PID=1001
+2026-05-23 23:10:24 [INFO]   Started process 'nginx' PID=1002
+2026-05-23 23:10:24 [INFO]   Started process 'worker1' PID=1003
+2026-05-23 23:10:33 [INFO]   Started process 'test' PID=1004
+2026-05-23 23:10:47 [INFO]   Suspended process PID=1004
+2026-05-23 23:10:56 [INFO]   Resumed process PID=1004
+2026-05-23 23:11:03 [INFO]   Stopped process PID=1004
+2026-05-23 23:12:53 [INFO]   Changed priority for PID=1004
+2026-05-23 23:13:29 [WARN]   Killed process PID=1004
+2026-05-23 23:13:46 [WARN]   Killed timed-out process PID=1000
+2026-05-23 23:13:46 [WARN]   Killed timed-out process PID=1001
+2026-05-23 23:13:46 [WARN]   Killed timed-out process PID=1002
+2026-05-23 23:13:46 [WARN]   Killed timed-out process PID=1003
+2026-05-23 23:14:11 [INFO]   Zombie processes cleaned up
+2026-05-23 23:14:25 [INFO]   Started process 'dima' PID=1005
+2026-05-23 23:14:32 [INFO]   Zombie processes cleaned up
+2026-05-23 23:14:41 [INFO]   Started process 'test' PID=1006
+2026-05-23 23:15:22 [WARN]   Killed process PID=1006
+2026-05-23 23:15:29 [INFO]   Zombie processes cleaned up
