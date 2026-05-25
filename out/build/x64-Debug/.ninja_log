@@ -1,0 +1,9 @@
+# ninja log v6
+11	1117	8012725506950782	CMakeFiles/vmpm.dir/src/Process.cpp.obj	8cbf7f7bcd72ee4
+20	1446	8012725506950782	CMakeFiles/vmpm.dir/src/VirtualMachine.cpp.obj	6796ea397cbb585c
+7	1622	8012725506950782	CMakeFiles/vmpm.dir/src/main.cpp.obj	edc29427eab79904
+17	1627	8012725506950782	CMakeFiles/vmpm.dir/src/Logger.cpp.obj	78e4a63e3beb71b0
+14	1645	8012725506950782	CMakeFiles/vmpm.dir/src/ProcessManager.cpp.obj	904ad5386255196b
+1646	2969	8012725523262946	vmpm.exe	4533a19690c408dc
+28	536	8012726424063279	CMakeFiles/vmpm.dir/src/main.cpp.obj	edc29427eab79904
+600	935	8012726429773051	vmpm.exe	4533a19690c408dc

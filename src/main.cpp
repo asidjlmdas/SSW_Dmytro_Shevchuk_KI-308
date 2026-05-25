@@ -26,6 +26,7 @@ void printMenu() {
 }
 
 int main() {
+    system("chcp 65001 > nul");
     std::srand(42);
 
     VirtualMachine vm("TestVM-1");
